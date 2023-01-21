@@ -1,3 +1,6 @@
+// Copyright (c) Nicole Mazzuca
+// SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
+
 #![feature(maybe_uninit_slice, round_char_boundary)]
 #![cfg_attr(test, feature(test))]
 
